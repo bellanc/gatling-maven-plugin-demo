@@ -1,14 +1,12 @@
 gatling-maven-plugin-demo
 =========================
 
-Simple showcase of a maven project using the gatling-maven-plugin.
 
-
-
-To install Scala-IDE for Eclipse use the update site from the Scala ide website:
+__To install Scala-IDE for Eclipse use the update site from the Scala ide website:__
 http://scala-ide.org/download/current.html
 
 
+Simple showcase of a maven project using the gatling-maven-plugin.
 
 To test it out, simply execute the following command:
 
