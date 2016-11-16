@@ -2,7 +2,7 @@ gatling-maven-plugin-demo
 =========================
 
 
-*__To install Scala-IDE for Eclipse use the update site from the Scala ide website:__*
+*__To install Scala-IDE for Eclipse use the update site from the Scala IDE website:__*
 http://scala-ide.org/download/current.html
 
 
